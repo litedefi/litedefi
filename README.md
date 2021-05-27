@@ -1,4 +1,4 @@
-# Metronotes Tron Contracts
+# Litedefi Lite Contracts
 
 [![npm version](https://badge.fury.io/js/%40oikos%2Foikos.svg)](https://badge.fury.io/js/%40oikos%2Foikos)
 [![Twitter Follow](https://img.shields.io/twitter/follow/oikos_cash.svg?label=oikos_cash&style=social)](https://twitter.com/oikos_cash)
